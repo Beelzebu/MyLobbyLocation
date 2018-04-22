@@ -1,0 +1,11 @@
+# MyLobbyLocation by: Beelzebu
+#
+# Simple plugin to allow players set his own lobby location
+
+# MySQL server settings
+MySQL:
+  Host: 'localhost'
+  Port: 3006
+  Database: 'mll'
+  User: 'plugins'
+  Password: 'S3CUR3P4SSW0RD'

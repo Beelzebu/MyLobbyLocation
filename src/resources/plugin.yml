@@ -1,0 +1,13 @@
+name: ${project.name}
+version: ${project.version}
+main: ${project.groupId}.mylobbylocation.MLLMain
+author: Beelzebu
+commands:
+  setlobby:
+    description: Set lobby locations.
+    usage: /<command> <arguments>
+    aliases: [di]
+  spawn:
+    description: Go to lobby
+    usage: /<command> <arguments>
+    aliases: [lobby, espawn, hub]
